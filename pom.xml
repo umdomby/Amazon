@@ -50,7 +50,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
 					<fork>true</fork>
-					<mainClass>om.example.amazon.AmazonApplication</mainClass>
+					<mainClass>com.example.amazon.AmazonApplication</mainClass>
 				</configuration>
 				<executions>
 					<execution>
