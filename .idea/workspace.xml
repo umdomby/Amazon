@@ -11,12 +11,13 @@
   <component name="ChangeListManager">
     <list default="true" id="355d2134-542a-4899-9f48-e00156b63bf0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/amazon_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/amazon_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/amazon_jar/amazon.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,13 +26,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="F:\ideaIU-2020.1\plugins\maven\lib\maven3" />
-      </MavenGeneralSettings>
-    </option>
   </component>
   <component name="ProjectId" id="1kzIBlN4pb9fZ1GEL9mDOIUzk3V" />
   <component name="ProjectViewState">
@@ -44,26 +38,16 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springbootdemo" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3233645" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="AmazonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="amazon" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.amazon.AmazonApplication" />
@@ -82,59 +66,21 @@
       <updated>1606696862637</updated>
       <workItem from="1606696864498" duration="185000" />
       <workItem from="1606693814205" duration="635000" />
+      <workItem from="1606695111396" duration="201000" />
+      <workItem from="1606695342312" duration="166000" />
+      <workItem from="1606754552874" duration="3758000" />
+      <workItem from="1606791085095" duration="2693000" />
+      <workItem from="1606861338824" duration="166000" />
+      <workItem from="1606861579394" duration="909000" />
+      <workItem from="1606862501223" duration="976000" />
+      <workItem from="1606863487872" duration="152000" />
+      <workItem from="1606863647295" duration="1567000" />
+      <workItem from="1606865263275" duration="263000" />
+      <workItem from="1606865628892" duration="477000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1999" y="1120" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606705493716">
-      <screen x="1280" y="768" width="1920" height="1080" />
-    </state>
-    <state x="1999" y="1120" width="525" height="423" key="#com.intellij.ide.util.TreeClassChooserDialog/1280.768.1920.1080/1280.0.1366.768/0.595.1280.1024/3200.501.1920.1080@1280.768.1920.1080" timestamp="1606705493716" />
-    <state x="719" y="342" key="#com.intellij.ide.util.TreeClassChooserDialog/310.-768.1366.738/-1280.-205.1280.994/1920.-271.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1606694376713" />
-    <state x="2049" y="1086" width="424" height="491" key="FileChooserDialogImpl" timestamp="1606705502079">
-      <screen x="1280" y="768" width="1920" height="1080" />
-    </state>
-    <state x="2049" y="1086" width="424" height="491" key="FileChooserDialogImpl/1280.768.1920.1080/1280.0.1366.768/0.595.1280.1024/3200.501.1920.1080@1280.768.1920.1080" timestamp="1606705502079" />
-    <state x="769" y="309" key="FileChooserDialogImpl/310.-768.1366.738/-1280.-205.1280.994/1920.-271.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1606694381442" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1606694449630">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/310.-768.1366.738/-1280.-205.1280.994/1920.-271.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1606694449630" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1606694449629">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/310.-768.1366.738/-1280.-205.1280.994/1920.-271.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1606694449629" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1606694449629">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/310.-768.1366.738/-1280.-205.1280.994/1920.-271.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1606694449629" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1606694449630">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/310.-768.1366.738/-1280.-205.1280.994/1920.-271.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1606694449630" />
-    <state width="1877" height="285" key="GridCell.Tab.1.bottom" timestamp="1606694449630">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="285" key="GridCell.Tab.1.bottom/310.-768.1366.738/-1280.-205.1280.994/1920.-271.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1606694449630" />
-    <state width="1877" height="285" key="GridCell.Tab.1.center" timestamp="1606694449630">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="285" key="GridCell.Tab.1.center/310.-768.1366.738/-1280.-205.1280.994/1920.-271.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1606694449630" />
-    <state width="1877" height="285" key="GridCell.Tab.1.left" timestamp="1606694449630">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="285" key="GridCell.Tab.1.left/310.-768.1366.738/-1280.-205.1280.994/1920.-271.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1606694449630" />
-    <state width="1877" height="285" key="GridCell.Tab.1.right" timestamp="1606694449630">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state width="1877" height="285" key="GridCell.Tab.1.right/310.-768.1366.738/-1280.-205.1280.994/1920.-271.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1606694449630" />
-    <state x="1759" y="899" width="1024" height="852" key="SettingsEditor" timestamp="1606705505229">
-      <screen x="1280" y="768" width="1920" height="1080" />
-    </state>
-    <state x="1759" y="899" width="1024" height="852" key="SettingsEditor/1280.768.1920.1080/1280.0.1366.768/0.595.1280.1024/3200.501.1920.1080@1280.768.1920.1080" timestamp="1606705505229" />
-    <state x="479" y="127" key="SettingsEditor/310.-768.1366.738/-1280.-205.1280.994/1920.-271.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1606694383560" />
   </component>
 </project>
