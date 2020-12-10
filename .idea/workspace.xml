@@ -10,27 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="355d2134-542a-4899-9f48-e00156b63bf0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/amazon_jar.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amazon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/amazon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/amazon_jar/amazon.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/amazon_jar/amazon_linux.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-prod.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/amazon-0.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/amazon-0.0.1-SNAPSHOT.jar.original" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application-prod.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/amazon/AmazonApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/amazon/AmazonApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/amazon/controllers/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/amazon/controllers/HomeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.amazon.AmazonApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.example.amazon.AmazonApplicationTests.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.example.amazon.AmazonApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.example.amazon.AmazonApplicationTests.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/example/amazon/AmazonApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/example/amazon/AmazonApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,19 +60,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="AmazonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="amazon" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.amazon.AmazonApplication" />
@@ -126,10 +94,17 @@
       <workItem from="1606947159188" duration="631000" />
       <workItem from="1606948062515" duration="2000" />
       <workItem from="1607024412505" duration="1494000" />
+      <workItem from="1607409564597" duration="401000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1607409596242">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="640" y="261" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/310.-768.1366.738/-1280.-205.1280.994/1920.-271.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1607409596242" />
   </component>
 </project>
