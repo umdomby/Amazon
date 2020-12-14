@@ -12,7 +12,6 @@
     <list default="true" id="355d2134-542a-4899-9f48-e00156b63bf0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/amazon_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/amazon_jar.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/amazon_jar/amazon.jar" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" beforeDir="false" />
@@ -33,6 +32,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -41,11 +41,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springbootdemo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3233645" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
     <configuration name="AmazonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -77,10 +78,29 @@
       <workItem from="1606863647295" duration="1567000" />
       <workItem from="1606865263275" duration="263000" />
       <workItem from="1606865628892" duration="477000" />
+      <workItem from="1606867048082" duration="472000" />
+      <workItem from="1606867604061" duration="740000" />
+      <workItem from="1606868711210" duration="1029000" />
+      <workItem from="1606869765585" duration="1427000" />
+      <workItem from="1606871264031" duration="507000" />
+      <workItem from="1607952323126" duration="98000" />
+      <workItem from="1607952902676" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
