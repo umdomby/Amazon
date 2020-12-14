@@ -1,7 +1,6 @@
 # Amazon
-test AWS
+http://18.156.171.99/  Linux
+http://54.93.112.10/   Linux2
 
-
-windows
-cd /F/GitClone/Amazon/out/artifacts/amazon_jar
-java -jar amazon.jar
+http://3.120.39.152/  springbootdemo Mysql-EB
+http://18.197.174.130/ Sweater-Postgre-EB
